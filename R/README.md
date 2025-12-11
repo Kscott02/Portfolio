@@ -1,0 +1,1 @@
+This folder has a presentation a partner and I did on an R package that we had to research and showcase. We chose the Plotly package which allows the user to create and modify graphs and make them more interactive and interesting.
