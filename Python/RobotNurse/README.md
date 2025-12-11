@@ -1,3 +1,3 @@
 In this project I, in a group of 3 collaborated in creating a "Robot Nurse" that would use different search algorithms to find the optimal path to get to each of the wards in the faux-hospital floor. This project was done in python and was tested mostly in Visual Studio.
 
-Click Here to get to Robot Nurse repository
+[Click Here to get to Robot Nurse repository](https://github.com/SJUCS/ai-final-project-team2)
